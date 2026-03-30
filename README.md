@@ -1,4 +1,4 @@
-# carbuncle 
+# carbuncle [![Brainmade mark](img/88x31-dark.png)](https://brainmade.org/)
 Just another raytracer
 
 # Background
@@ -12,3 +12,7 @@ your choosing.
 ```bash
 ruby carbuncle.rb > image.ppm
 ```
+
+# Progress
+## Hello World
+![Hello World render](img/01-helloworld.png)
