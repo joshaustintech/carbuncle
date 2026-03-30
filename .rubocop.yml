@@ -1,0 +1,6 @@
+Naming/MethodParameterName:
+  Enabled: No
+
+  Metrics/AbcSize:
+    CountRepeatedAttributes: false
+    Max: 24

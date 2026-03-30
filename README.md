@@ -10,7 +10,7 @@ A demo scene is rendered (48-bit RGB colors, default resolution 512x512) in the 
 your choosing.
 
 ```bash
-ruby carbuncle.rb > image.ppm
+ruby src/carbuncle.rb > image.ppm
 ```
 
 # Progress
